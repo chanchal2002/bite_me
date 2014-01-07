@@ -1,8 +1,0 @@
-name = Contact Block
-description = This is Contact Us Module. You can assign this Module to any Region. This is Designed and Developed by Chanchal Debnath. Contact with me : chanchaldebnath2002@gmail.com , Website : www.chanchaldebnath.com
-package = Chanchal Debnath
-core = 7.x
-
-files[] = first.module
-
-version = "7.x-1.1"
